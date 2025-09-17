@@ -3,15 +3,6 @@
 **Scope:** Item-level screening evidence for the manuscript’s PRISMA-ScR flow (exclusions only).  
 **Freeze/Search date:** 10 July 2025
 
-## Repository structure (minimal)
-Table1.Screening-and-eligibility/
-├─ PRISMA_counts.xlsx # optional, stage-level counts to match the PRISMA figure
-├─ Excluded/
-│ ├─ Excluded_25_Title_Abstract_Keywords.xlsx
-│ └─ Excluded_3_FullText.xlsx
-└─ README.md
-
-
 ## Purpose
 - Provide a transparent **screening log** of excluded records:
   - **25** exclusions at **Title–Abstract–Keywords**
@@ -50,3 +41,4 @@ Table1.Screening-and-eligibility/
 - Suggested tag/release: `v1.0.0-freeze-2025-07-10`.  
 - Citation:  
   > Thanh Tuan, N., & Le Anh, T.(2025a). *Table1.Screening-and-eligibility* [Data set]. GitHub.
+
